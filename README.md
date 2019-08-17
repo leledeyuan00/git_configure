@@ -4,4 +4,6 @@ To configure git
 
 ### configure
 
-  - [Git](https://github.com/leledeyuan00/git_configure/wiki)
+  - [Ubuntu](https://github.com/leledeyuan00/git_configure/wiki)
+  
+  - [Windows](https://github.com/leledeyuan00/git_configure/wiki/Windows)
